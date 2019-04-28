@@ -1,2 +1,9 @@
 # Classes
-A meta repository to gather links to class repos and related materials as a pinned repository.
+
+## [AP Computer Science Principles](https://github.com/DouglasUrner/CSP)
+
+## [AP Computer Science A](https://github.com/DouglasUrner/A)
+
+## [Game Design & Programming 1](https://github.com/DouglasUrner/GDP1)
+
+## [Game Design & Programming 2](https://github.com/DouglasUrner/GDP2)
