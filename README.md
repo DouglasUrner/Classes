@@ -8,4 +8,4 @@
 
 ## [Game Design & Programming 2](https://github.com/DouglasUrner/GDP2)
 
-## [Common]((https://github.com/DouglasUrner/Common)
+## [Common](https://github.com/DouglasUrner/Common)
