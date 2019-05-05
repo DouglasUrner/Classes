@@ -9,3 +9,8 @@
 ## [Game Design & Programming 2](https://github.com/DouglasUrner/GDP2)
 
 ## [Common](https://github.com/DouglasUrner/Common)
+
+## Course Planning
+
+* [Essential Tasks](https://github.com/DouglasUrner/CS-Essential-Tasks)
+
