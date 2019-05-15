@@ -1,6 +1,6 @@
 # Classes
 
-### [A+](https://github.com/DouglasUrner/A+)
+### [A+](https://github.com/DouglasUrner/A-Plus)
 
 ### [AP Computer Science Principles](https://github.com/DouglasUrner/CSP)
 
