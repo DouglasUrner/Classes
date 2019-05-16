@@ -16,3 +16,8 @@
 
 * [Essential Tasks](https://github.com/DouglasUrner/CS-Essential-Tasks)
 
+## CTSO Options
+
+* [A Program Focused CTSO](https://github.com/DouglasUrner/CS-CTSO)
+* [FBLA]()
+* [SkillsUSA]()
