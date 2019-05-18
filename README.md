@@ -12,6 +12,10 @@
 
 ### [Common](https://github.com/DouglasUrner/Common)
 
+## Events
+
+### [CS / IT Careers Night](https://github.com/DouglasUrner/CS-Careers)
+
 ## Course Planning
 
 * [Essential Tasks](https://github.com/DouglasUrner/CS-Essential-Tasks)
