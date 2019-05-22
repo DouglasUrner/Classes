@@ -10,7 +10,7 @@
 
 ### [Game Design & Programming 2](https://github.com/DouglasUrner/GDP2)
 
-### [Game Design & Programming Platest Site](https://douglasurner.github.io/GDP-Playtest/)
+### [Game Design & Programming Playtest Site](https://douglasurner.github.io/GDP-Playtest/)
 
 ### [Common](https://github.com/DouglasUrner/Common)
 
