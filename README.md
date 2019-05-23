@@ -10,6 +10,8 @@
 
 ### [Game Design & Programming 2](https://github.com/DouglasUrner/GDP2)
 
+* [VR and Unity](https://github.com/DouglasUrner/VR-and-Unity)
+
 ### [Game Design & Programming Playtest Site](https://douglasurner.github.io/GDP-Playtest/)
 
 ### [Common](https://github.com/DouglasUrner/Common)
