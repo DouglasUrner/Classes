@@ -20,6 +20,8 @@
 
 ### [CS / IT Careers Night](https://github.com/DouglasUrner/CS-Careers)
 
+* [College CS Programs](https://github.com/DouglasUrner/Common/blob/master/resources/college-cs-programs.md)
+
 ## Course Planning
 
 * [Essential Tasks](https://github.com/DouglasUrner/CS-Essential-Tasks)
