@@ -21,7 +21,7 @@
 ### [CS / IT Careers Night](https://github.com/DouglasUrner/CS-Careers)
 
 * [College CS Programs](https://github.com/DouglasUrner/Common/blob/master/resources/college-cs-programs.md)
-* [College Game Design Programs]()
+* [College Game Design Programs](https://github.com/DouglasUrner/Common/blob/master/resources/game-design-programs.md)
 
 ## Course Planning
 
