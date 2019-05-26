@@ -12,7 +12,9 @@
 
 * [VR and Unity](https://github.com/DouglasUrner/VR-and-Unity) - [Wiki](https://github.com/DouglasUrner/VR-and-Unity/wiki)
 
-### [Game Design & Programming Playtest Site](https://douglasurner.github.io/GDP-Playtest/)
+### Game Design & Programming Playtest Site
+* [Live Site](https://douglasurner.github.io/GDP-Playtest/)
+* [Source Repository](https://github.com/DouglasUrner/GDP-Playtest)
 
 ### [Common](https://github.com/DouglasUrner/Common)
 
