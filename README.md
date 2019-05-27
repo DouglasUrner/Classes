@@ -2,9 +2,13 @@
 
 ### [A+](https://github.com/DouglasUrner/A-Plus)
 
+## AP Computer Science
+
 ### [AP Computer Science Principles](https://github.com/DouglasUrner/CSP)
 
 ### [AP Computer Science A](https://github.com/DouglasUrner/CSA)
+
+## Game Design & Programming
 
 ### [Game Design & Programming 1](https://github.com/DouglasUrner/GDP1)
 
@@ -16,7 +20,9 @@
 * [Live Site](https://douglasurner.github.io/GDP-Playtest/)
 * [Source Repository](https://github.com/DouglasUrner/GDP-Playtest)
 
-### [Common](https://github.com/DouglasUrner/Common)
+### [Game Design & Programming Common](https://github.com/DouglasUrner/GDP-Common)
+
+## [Common](https://github.com/DouglasUrner/Common)
 
 ## Events
 
