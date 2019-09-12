@@ -1,6 +1,8 @@
 # Classes
 
-### [A+](https://github.com/DouglasUrner/A-Plus)
+## [Common](https://github.com/DouglasUrner/Common) - materials shared across multiple courses.
+
+## [A+](https://github.com/DouglasUrner/A-Plus)
 
 ## AP Computer Science
 
@@ -9,6 +11,8 @@
 ### [AP Computer Science A](https://github.com/DouglasUrner/CSA)
 
 ## Game Design & Programming
+
+### [Game Design & Programming Common](https://github.com/DouglasUrner/GDP-Common) - materials used in both GDP courses.
 
 ### [Game Design & Programming 1](https://github.com/DouglasUrner/GDP1)
 
@@ -19,10 +23,6 @@
 ### Game Design & Programming Playtest Site
 * [Live Site](https://douglasurner.github.io/GDP-Playtest/)
 * [Source Repository](https://github.com/DouglasUrner/GDP-Playtest)
-
-### [Game Design & Programming Common](https://github.com/DouglasUrner/GDP-Common)
-
-## [Common](https://github.com/DouglasUrner/Common)
 
 ## Events
 
