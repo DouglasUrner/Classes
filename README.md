@@ -2,6 +2,8 @@
 
 ## [Common](https://github.com/DouglasUrner/Common) - materials shared across multiple courses.
 
+* [Importable Objectives](https://docs.google.com/spreadsheets/d/1znEmmPVIqyuKuEIykr42J01GpGllssM1PG2sf0lqiyg/edit?usp=sharing)
+
 ## [A+](https://github.com/DouglasUrner/A-Plus)
 
 ## AP Computer Science
