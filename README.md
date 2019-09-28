@@ -16,6 +16,8 @@ Roughly speaking, course/unit containers.
 
 ### [Create With Code](https://github.com/Create-With-Code-Master)
 
+### [Git and GitHub](https://github.com/Git-and-GitHub-Master)
+
 # Courses
 
 Older single-repository courses, organized as a single repository with units in a folder structure.
