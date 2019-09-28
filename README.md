@@ -4,13 +4,13 @@ Roughly speaking, course/unit containers.
 
 ## Course Masters
 
-### [A+ Certification]()
+### [A+ Certification](https://github.com/APlus-Master)
 
-### [AP CS Principles]()
+### [AP CS Principles](https://github.com/CSP-Master)
 
 ### [Game Design & Programming](https://github.com/GDP-Master)
 
-### [Account Creation]()
+### [Shared Assignments](https://github.com/Shared-Master)
 
 ### [Create With Code]()
 
