@@ -12,6 +12,8 @@ Roughly speaking, course/unit containers.
 
 ### [Shared Assignments](https://github.com/Shared-Master)
 
+"One off" assignments shared between multiple classes.
+
 ### [Create With Code](https://github.com/Create-With-Code-Master)
 
 # Courses
