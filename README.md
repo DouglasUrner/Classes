@@ -12,10 +12,11 @@ Roughly speaking, course/unit containers.
 
 ### [Shared Assignments](https://github.com/Shared-Master)
 
-### [Create With Code]()
+### [Create With Code](https://github.com/Create-With-Code-Master)
 
+# Courses
 
-# Classes
+Older single-repository courses, organized as a single repository with units in a folder structure.
 
 ## [Common](https://github.com/DouglasUrner/Common) - materials shared across multiple courses.
 
