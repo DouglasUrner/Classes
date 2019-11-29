@@ -54,7 +54,7 @@ Older single-repository courses, organized as a single repository with units in 
 
 ### [CS / IT Careers Night](https://github.com/DouglasUrner/CS-Careers)
 
-* [College CS Programs](https://github.com/DouglasUrner/Common/blob/master/resources/college-cs-programs.md)
+* [College CS Programs](https://github.com/DouglasUrner/Common/blob/master/career-pathway/college-cs-programs.md)
 * [College Game Design Programs](https://github.com/DouglasUrner/Common/blob/master/resources/game-design-programs.md)
 
 ## Course Planning
